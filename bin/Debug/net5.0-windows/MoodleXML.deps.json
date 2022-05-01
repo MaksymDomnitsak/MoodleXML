@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MoodleXML/1.0.0": {
+        "runtime": {
+          "MoodleXML.dll": {}
+        },
+        "resources": {
+          "agq/MoodleXML.resources.dll": {
+            "locale": "agq"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoodleXML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
